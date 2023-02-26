@@ -1,0 +1,35 @@
+
+J
+java:S37402"/Provide the parametrized type for this generic.(êÕ°üÿÿÿÿ
+E
+java:S37404"/Provide the parametrized type for this generic.(ôÓÔ
+J
+java:S3740@"/Provide the parametrized type for this generic.(ô¹´Öüÿÿÿÿ
+J
+java:S3740C"/Provide the parametrized type for this generic.(æ¯Ëÿÿÿÿÿ
+E
+java:S3740R"/Provide the parametrized type for this generic.(Ñ÷Ë€
+E
+java:S3740U"/Provide the parametrized type for this generic.(™–Â‘
+F
+java:S3740Ü"/Provide the parametrized type for this generic.(ºÚãÆ
+F
+java:S3740Ş"/Provide the parametrized type for this generic.(ôÓÔ
+Y
+java:S1612_"CReplace this lambda with method reference 'UsersReview::getRating'.(ëÕßá
+C
+java:S1125™"'Remove the unnecessary boolean literal.(’´Ø‰ıÿÿÿÿ
+C
+java:S1125š"'Remove the unnecessary boolean literal.(·à±ÿùÿÿÿÿ
+r
+java:S1192·"VDefine a constant instead of duplicating this literal "Unknown error occured" 3 times.(ß“åÚüÿÿÿÿ
+l
+java:S1192µ"UDefine a constant instead of duplicating this literal "Updated Successfully" 3 times.(•£Ÿš
+{
+java:S1488a"eImmediately return this expression instead of assigning it to the temporary variable "overallRating".(şÀ°
+
+java:S1488‘"eImmediately return this expression instead of assigning it to the temporary variable "advertisement".(ÌÑ§‰úÿÿÿÿ
+y
+java:S1488®"bImmediately return this expression instead of assigning it to the temporary variable "searchPage".(äı÷Ã
+]
+java:S2259æ"FA "NullPointerException" could be thrown; "products" is nullable here.(À­¦»
